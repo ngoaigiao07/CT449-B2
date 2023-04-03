@@ -6,7 +6,7 @@
             <ErrorMessage name="name" class="error-feedback" />
         </div>
         <div class="form-group">
-            <label for="email">E-mail</label>
+            <label for="email">Email</label>
             <Field name="email" type="email" class="form-control" v-model="contactLocal.email" />
             <ErrorMessage name="email" class="error-feedback" />
         </div>
